@@ -1,5 +1,5 @@
 # Homework-PostgreSQL
-![music servise_02 drawio](https://user-images.githubusercontent.com/95634307/172588150-b63f1671-3787-405b-923c-6996f2b9a636.png)
+![music servise_02 drawio](https://user-images.githubusercontent.com/95634307/174990112-2c9a42e1-d426-4cdf-aea0-aaf247b63e8e.png)
 
 # Домашнее задание к лекции «Работа с SQL. Создание БД»
 
